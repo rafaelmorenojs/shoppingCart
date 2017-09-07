@@ -16,7 +16,7 @@
         "optimize-autoloader": true
     },
     "dist": {
-        "url": "https://github.com/rafaelmorenojs/shoppingCart/arhive/1.0.0.zip",
+        "url": "https://github.com/rafaelmorenojs/shoppingCart/archive/1.0.0.zip",
         "type": "zip"
     }
 }
