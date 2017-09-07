@@ -22,5 +22,8 @@
   "dist": {
     "url": "https://github.com/rafaelmorenojs/shoppingCart/archive/1.0.0.zip",
     "type": "zip"
+  },
+  "autoload": {
+    "psr-4": {"Cart\\": "src/"}
   }
 }
