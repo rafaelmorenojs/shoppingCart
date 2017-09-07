@@ -3,7 +3,7 @@
   "description": "Carrito de Compras",
   "keywords": ["plugin", "shopping", "cart"],
   "license": "proprietary",
-  "type": "composer-plugin",
+  "type": "library",
   "require": {
     "php": ">=5.6.0"
   },
