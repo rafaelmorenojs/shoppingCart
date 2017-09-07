@@ -1,22 +1,26 @@
 {
-    "name": "rafaelmorenojs/shoppingcart",
-    "description": "Carrito de Compras",
-    "type": "composer-plugin",
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "Rafael Moreno",
-            "email": "alejandro8924@gmail.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "config": {
-        "preferred-install": "dist",
-        "sort-packages": true,
-        "optimize-autoloader": true
-    },
-    "dist": {
-        "url": "https://github.com/rafaelmorenojs/shoppingCart/archive/1.0.0.zip",
-        "type": "zip"
+  "name": "rafaelmorenojs/shoppingcart",
+  "description": "Carrito de Compras",
+  "keywords": ["plugin", "shopping", "cart"],
+  "license": "proprietary",
+  "type": "composer-plugin",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "authors": [
+    {
+      "name": "Rafael Moreno",
+      "email": "alejandro8924@gmail.com"
     }
+  ],
+  "minimum-stability": "stable",
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "dist": {
+    "url": "https://github.com/rafaelmorenojs/shoppingCart/archive/1.0.0.zip",
+    "type": "zip"
+  }
 }
